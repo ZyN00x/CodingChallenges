@@ -14,6 +14,6 @@ My own implementation for the [cat](https://www.gnu.org/software/coreutils/manua
 
 ```bash
 g++ -o cccat cccat.cpp
-sudo mv cccat usr/bin
+sudo cp cccat /usr/bin
 cccat `[options]`
 ```
