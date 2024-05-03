@@ -1,5 +1,5 @@
 ## Description
-My own implementation for the `[cat](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#cat-invocation)` utility in C++.
+My own implementation for the [cat](https://www.gnu.org/software/coreutils/manual/html_node/cat-invocation.html#cat-invocation) utility in C++.
 
 ## Usage
 1. `cccat test.txt` : basic file content viewer.
